@@ -26,7 +26,6 @@ body{
 #divMain{
     width:200px;
     height:150px;
-    position: fixed;
 }
 #divMain>a{
     text-decoration: none;
