@@ -1,8 +1,9 @@
-const audio6=new Audio("Akhiyaan-Gulaab(PaglaSongs).mp3");
-document.querySelectorAll(".audio6").addEventListener("click",function(){
-audio6.pause();
+const audio5=new Audio("Akhiyaan-Gulaab(PaglaSongs).mp3");
+document.querySelectorAll(".audio5").addEventListener("click",function(){
+audio5.pause();
  });
 document.querySelectorAll(".audio6").addEventListener("click",function(){
+ const audio6=new Audio("Akhiyaan-Gulaab(PaglaSongs).mp3");
 audio6.play();
  });
 
@@ -10,8 +11,9 @@ const audio7=new Audio("What-Jhumka(PaglaSongs).mp3");
 document.querySelectorAll(".audio7").addEventListener("click",function(){
  audio7.pause();
  });
- document.querySelectorAll(".audio7").addEventListener("click",function(){
-audio7.play();
+ document.querySelectorAll(".audio8").addEventListener("click",function(){
+ const audio8=new Audio("What-Jhumka(PaglaSongs).mp3");
+audio8.play();
  });
 
 const audio8=new Audio("O-Maahi(PaglaSongs).mp3");
